@@ -4,3 +4,4 @@ nltk
 scikit-learn
 joblib
 matplotlib
+deep-translator
